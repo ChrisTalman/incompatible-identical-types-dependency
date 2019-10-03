@@ -3,7 +3,8 @@
 // Types
 import { RQuery } from 'rethinkdb-ts';
 
-export async function run(query: RQuery)
+export async function run <GenericQuery extends RQuery> (query: GenericQuery)
 {
-	await query.run();
+	const result = await query.run();
+	return result;
 };

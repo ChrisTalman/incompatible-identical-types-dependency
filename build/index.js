@@ -10,7 +10,8 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 };
 export function run(query) {
     return __awaiter(this, void 0, void 0, function* () {
-        yield query.run();
+        const result = yield query.run();
+        return result;
     });
 }
 ;
