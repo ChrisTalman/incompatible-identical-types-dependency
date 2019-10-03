@@ -322,8 +322,8 @@
         "signature": "b6f19caf61a9c88e4b6590ae2b97b01b92e4cf4192729a42aa3e2c98bd9545eb"
       },
       "../index.ts": {
-        "version": "423253041339c1cee099d49aa94d39b52cb208be1cee10c47c740aa08d6b61c0",
-        "signature": "a1879cfbcf5000ecf73d2661026d9ab149552596e37e01a42a8b15015b564a53"
+        "version": "703295cb7bbf900abbc76cd5833af9a26a3fd4d39f807702ead9bb45efc553c4",
+        "signature": "dff90fd96e89e98665d627bea5ca4c4d1b5b5383e30887e04694ee6db9750b6d"
       }
     },
     "options": {
